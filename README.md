@@ -3,23 +3,23 @@ Before using our settings be sure to follow our instruction.
 
 
 ### Atom Requirements
-** Atom packages **
+**Atom packages**
 * linter-eslint
 * prettier-atom
 * language-vue
 
-** linter-eslint settings **
+**linter-eslint settings**
 * Fix errors on save: `enabled` | `disabled` (optional)
 * List of scopes to run ESLint on, run 'Editor: Log': add value `text.html.vue` (required)
 * Show Rule ID in Messages: `enabled`(required)
 * Use global ESLint installation: `Disabled` (required)
 
-** prettier-atom settings **
+**prettier-atom settings**
 * ESLint Integration: `enabled` (required)
 * Format Files on Save: `enabled` | `disabled` (optional)
 
 ### VSCode Requirements
-** VSCode packages **
+**VSCode packages**
 
 * Prettier - Code formatter
 * ESlint
