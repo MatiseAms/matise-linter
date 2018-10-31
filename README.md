@@ -112,3 +112,9 @@ Results in an error. Don't use `this` in the template
 
 ## Final
 These settings are opinionated, please read them carefully, even the `.eslintrc.js`. If you find something please create a PR or an issue on this repo.
+
+## Sources
+
+* [https://github.com/vuejs/eslint-plugin-vue](https://github.com/vuejs/eslint-plugin-vue)
+* [https://prettier.io/docs/en/eslint.html](https://prettier.io/docs/en/eslint.html)
+* [https://eslint.org/docs/rules/](https://eslint.org/docs/rules/)
