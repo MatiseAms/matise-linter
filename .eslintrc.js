@@ -20,7 +20,7 @@ module.exports = {
 		'prettier/prettier': [
 			'warn',
 			{
-				printWidth: 1000,
+				printWidth: 120,
 				semi: true,
 				useTabs: true,
 				tabWidth: 1,
@@ -117,8 +117,8 @@ module.exports = {
 			'warn',
 			{
 				html: {
-					void: 'always',
-					normal: 'always',
+					void: 'never',
+					normal: 'never',
 					component: 'always'
 				},
 				svg: 'any',
