@@ -6,7 +6,7 @@ module.exports = {
 	},
 	parserOptions: {
 		parser: 'babel-eslint',
-		soureceType: 'module'
+		sourceType: 'module'
 	},
 	extends: [
 		// https://github.com/vuejs/eslint-plugin-vue#priority-a-essential-error-prevention
