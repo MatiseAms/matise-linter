@@ -31,6 +31,7 @@ module.exports = {
 		],
 		semi: ['warn', 'always'],
 		'no-console': 'off',
+		'yoda': 'warn',
 		'no-trailing-spaces': 'warn',
 		'no-undef': 'warn',
 		'no-irregular-whitespace': 'warn',
